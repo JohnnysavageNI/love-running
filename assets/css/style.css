@@ -179,6 +179,17 @@ main {
     border: 2px solid white;
 }
 
+/* Gallery page */
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
 #times h3 {
     /* Override the heading colour set in general styles */
     color: #fafafa;
